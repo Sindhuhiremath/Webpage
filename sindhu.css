@@ -1,0 +1,28 @@
+.newnewlayout{
+    display: flex;
+}
+
+.newnewlayout div{
+    background-color: aqua;
+    height: 30px;
+    width: 1000px;
+    padding-left: 60px;
+    padding-right: 1000px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.newnewlayout div2{
+    height: 1000px;
+    width: 1000px;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border-radius: 2px;
+}
+
+.newnewlayout div{
+    padding: 10px;
+    
+}
